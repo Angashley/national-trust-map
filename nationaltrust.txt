@@ -1,0 +1,410 @@
+Place	Lat	Lng	Region	Postcode
+Anglesey Abbey	52.2372162	0.2371953	East of England	CB25 9EJ
+Blakeney National Nature Reserve	52.9537162	1.0085263	East of England	NR25 7NW
+Blickling Estate	52.8117342	1.2294583	East of England	NR11 6NF
+Bourne Mill	51.8770473	0.9101883	East of England	CO2 8RT
+Brancaster Estate	52.9669032	0.6665813	East of England	PE31 8BW
+Brancaster Activity Centre	52.9666442	0.6643783	East of England	PE31 8BW
+Coggeshall Grange Barn	51.8678776	0.6820681	East of England	CO6 1RE
+Dunstable Downs, Chilterns Gateway Centre and Whipsnade Estate	51.8652453	-0.5397247	East of England	LU6 2GY
+Dunwich Heath and Beach	52.2588933	1.6245263	East of England	IP17 3DJ
+Elizabethan House Museum	52.6053442	1.723212	East of England	NR30 2QH
+Felbrigg Hall, Gardens & Estate	52.9072949	1.2572543	East of England	NR11 8PR
+Flatford: Bridge Cottage	51.9597899	1.0177163	East of England	CO7 6UL
+Hatfield Forest	51.8599783	0.2269643	East of England	CM22 6NE
+Horsey Windpump	52.7424732	1.6364463	East of England	NR29 4EF
+Houghton Mill	52.3309513	-0.1228007	East of England	PE28 2AZ
+Ickworth House, Park and Gardens	52.2221278	0.6541425	East of England	IP29 5QE
+Lavenham Guildhall	52.1087533	0.7944463	East of England	CO10 9QZ
+Melford Hall	52.0826713	0.7211213	East of England	CO10 9AA
+Orfordness-Havergate National Nature Reserve	52.0875334	1.536384	East of England	IP12 2NU
+Oxburgh Hall	52.5812182	0.5680804	East of England	PE33 9PS
+Paycockes	51.8703613	0.680767	East of England	CO6 1NS
+Peckover House and Garden	52.6650797	0.1532105	East of England	PE13 1JR
+Ramsey Abbey Gatehouse	52.4484283	-0.1024001	East of England	PE26 1DH
+RayleighMount	51.5871111	0.6050185	East of England	SS6 7EW
+St George's Guildhall	52.7554662	0.3914493	East of England	PE30 1HA
+Shaw's Corner	51.8359243	-0.2715447	East of England	AL6 9BX
+Sheringham Park	52.9272432	1.1728383	East of England	NR26 8TL
+Sutton Hoo	52.0932258	1.3373686	East of England	IP12 3DJ
+Theatre Royal Bury St Edmunds	52.2404951	0.7149765	East of England	IP33 1QR
+Whipsnade Tree Cathedral	51.8529413	-0.5400247	East of England	LU6 2LQ
+Wicken Fen National Nature Reserve	52.3105605	0.2891072	East of England	CB7 5XP
+Willington Dovecote and Stables	52.136941	-0.3867843	East of England	MK44 3PX
+Wimpole Hall	52.1409642	-0.0519712	East of England	SG8 0BW
+National Trust's Carlyle's House	51.4840857	-0.1719533	London	SW3 5HL
+National Trust Eastbury Manor House	51.5343392	0.0972529	London	IG11 9SN
+Fenton House	51.5588907	-0.1818024	London	NW3 6SP
+George Inn	51.5041928	-0.0922146	London	SE1 1NH
+Ham House and Garden	51.4442333	-0.3162627	London	TW10 7RS
+Morden Hall Park	51.4018679	-0.187292	London	SM4 5JD
+Osterley Park & House	51.4895393	-0.3476807	London	TW7 4RB
+Rainham Hall	51.5179328	0.1885867	London	RM13 9YN
+Red House	51.4554815	0.1281383	London	DA6 8JF
+Sutton House	51.5484853	-0.0526126	London	E9 6JQ
+575 Wandsworth Road	51.4697933	-0.1428167	London	SW8 3JD
+2 Willow Road	51.5571588	-0.171377	London	NW3 1TH
+Shugborough Estate	52.7918369	-2.0174946	Midland	ST17 0XB
+Dark Peak	53.4010397	-3.1633504	Midland	S33 8WA
+National Trust's Attingham Park	52.6888572	-2.6702721	Midland	SY4 4TP
+Attingham Park Estate: Cronkhill	52.6702446	-2.6901626	Midland	SY5 6JP
+Town Walls Tower	52.7050052	-2.7573086	Midland	SY1 1TN
+Baddesley Clinton	52.3409534	-1.7107089	Midland	B93 0DQ
+National Trust Belton House	52.9431063	-0.6199877	Midland	NG32 2LS
+Benthall Hall	52.6202344	-2.5086402	Midland	TF12 5RX
+Berrington Hall	52.2689084	-2.722701	Midland	HR6 0DW
+Biddulph Grange Garden	53.1238975	-2.2647089	Midland	ST8 7SD
+Birmingham Back to Backs	52.4742923	-1.8992675	Midland	B5 4TE
+Brockhampton Estate	52.1883244	-2.469411	Midland	WR6 5TB
+Calke Abbey	52.7997164	-1.4580834	Midland	DE73 7LE
+Canons Ashby	52.15108	-1.1599853	Midland	NN11 3SD
+Carding Mill Valley and the Long Mynd	52.5459248	-2.8248922	Midland	SY6 6JG
+Charlecote Park	52.205293	-1.6239049	Midland	CV35 9ER
+Clumber Park	53.2684057	-1.0667839	Midland	S80 3AZ
+Coughton Court	52.2437426	-1.8818872	Midland	B49 5JA
+Croft Castle and Parkland	52.2843642	-2.810699	Midland	HR6 9PW
+Croome Park	52.1049033	-2.1682137	Midland	WR8 9DW
+Dudmaston	52.4960877	-2.3765766	Midland	WV15 6QN
+Duffield Castle	52.9925032	-1.4913887	Midland	DE56 4DW
+Farnborough Hall	52.1413693	-1.3741137	Midland	OX17 1DU
+The Fleece Inn	52.0920429	-1.8674272	Midland	WR11 7JE
+Grantham House	52.9290796	-0.646404	Midland	NG31 6SS
+Greyfriars' House and Garden	52.19055	-2.2209697	Midland	WR1 2LZ
+Gunby Estate, Hall and Gardens	53.1786751	0.1921343	Midland	PE23 5SS
+Gunby Hall Estate: Monksthorpe Chapel	53.1787027	0.1768134	Midland	PE23 5PP
+Hanbury Hall and Gardens	52.2718037	-2.0854063	Midland	WR9 7EA
+Stainsby Mill (Hardwick Estate)	53.1832832	-1.3216637	Midland	S44 5RW
+Hardwick Hall	53.1687942	-1.3109149	Midland	S44 5QJ
+Hawford Dovecote	52.2438643	-2.2285686	Midland	WR3 7SG
+Kedleston Hall	52.9595537	-1.5401832	Midland	DE22 5JH
+Kinver Edge and the Rock Houses	52.4446288	-2.2012688	Midland	DY7 6DL
+Kinwarton Dovecote	52.2242137	-1.8485865	Midland	B49 6HB
+Knowles Mill	52.3860103	-2.3533027	Midland	DY12 2LX
+Letocetum Roman Baths and Museum	52.6564472	-1.8595537	Midland	WS14 0AW
+Lyveden New Bield	52.456856	-0.5554319	Midland	PE8 5AT
+Middle Littleton Tithe Barn	52.121872	-1.8868861	Midland	WR11 5LN
+Morville Hall	52.5429201	-2.4923734	Midland	WV16 5NB
+Moseley Old Hall	52.6374457	-2.1045282	Midland	WV10 7HY
+The Old Manor	52.9785102	-1.8170787	Midland	DE6 2ED
+Packwood House	52.3479151	-1.7488861	Midland	B94 6AT
+Longshaw Estate	53.3152821	-1.6069356	Midland	S11 7TZ
+Ilam Park Dovedale & the White Peak	53.1998177	-2.2070368	Midland	DE6 2AZ
+Priest's House, Easton on the Hill	53.1998177	-2.2070368	Midland	PE9 3LS
+Rosedene	52.3559158	-2.1063968	Midland	B61 9BU
+Staunton Harold Church	52.7840932	-1.4403617	Midland	LE65 1RW
+Mr Straw's House	53.3151751	-1.1176174	Midland	S81 0JG
+Sudbury Hall and the National Trust Museum of Childhood	52.8862296	-1.7678607	Midland	DE6 5HT
+Sunnycroft	52.6953962	-2.5189357	Midland	TF1 2DR
+Tattershall Castle	53.1013512	-0.1955967	Midland	LN4 4LR
+Stoneywell National Trust	52.7014879	-1.2668126	Midland	LE67 9QE
+Upton House and Gardens	52.1084191	-1.4637813	Midland	OX15 6HT
+The Weir Garden	52.0729023	-2.8242187	Midland	HR4 7QF
+Wichenford Dovecote	52.2368043	-2.3152087	Midland	WR6 6XY
+Wightwick Manor and Gardens	52.5825018	-2.1962565	Midland	WV6 8BN
+Wilderhope Manor	52.5316742	-2.6744457	Midland	TF13 6EG
+Woolsthorpe Manor	52.8087912	-0.6327347	Midland	NG33 5PD
+The Workhouse, Southwell	53.0810772	-0.9414297	Midland	NG25 0PT
+Tatton Park	53.3293809	-2.3823714	North West England	WA16 6QN
+Alderley Edge	53.2964849	-2.2145317	North West England	SK10 4UB
+Little Moreton Hall	53.1271607	-2.2539353	North West England	CW12 4SD
+Lyme	53.530596	-3.4107919	North West England	SK12 2NR
+Acorn Bank	54.6465309	-2.5955802	North West England	CA10 1SP
+Ullswater and Aira Force	54.5712843	-2.932046	North West England	CA11 0JS
+Allan Bank - National Trust	54.4601292	-3.0319655	North West England	LA22 9QB
+Wray Castle	54.3773976	-3.0027665	North West England	LA22 0JA
+Hill Top	54.3773077	-3.0027665	North West England	LA22 0LF
+Beatles Childhood Homes	53.3697068	-2.900069	North West England	L18 9TN
+Beatrix Potter Gallery and Hawkshead	54.3750685	-3.0009485	North West England	LA22 0NS
+Dalton Castle	54.1554091	-3.1886389	North West England	LA15 8AX
+Fell Foot Park	54.2744282	-2.9534171	North West England	LA12 8NN
+Gawthorpe Hall	53.8027679	-2.2968439	North West England	BB12 8UA
+The Hardmans' House	53.3998462	-2.9759156	North West England	L1 9ER
+Hare Hill	53.2850953	-2.1887271	North West England	SK10 4PY
+Hawkshead and Claife	54.3512179	-2.944697	North West England	LA22 0LW
+Keld Chapel	54.5238621	-2.6933667	North West England	CA10 3NW
+Nether Alderley Mill	53.2828848	-2.2385393	North West England	SK10 4TW
+Quarry Bank	53.3436904	-2.2522823	North West England	SK9 4LA
+Rufford Old Hall	53.6380102	-2.8159312	North West England	L40 1SG
+Sandscale Haws National Nature Reserve	54.1638921	-3.2451027	North West England	LA14 4QJ
+Sizergh Castle	54.2841251	-2.7737478	North West England	LA8 8DZ
+Steam Yacht Gondola	54.3639021	-3.0670187	North West England	LA21 8AN
+Tarn Hows	54.363985	-3.1348697	North West England	LA23 1EN
+Townend	54.4124853	-2.9172647	North West England	LA23 1LB
+Wasdale, Eskdale and Duddon	54.440815	-3.3410069	North West England	CA20 1ET
+Wordsworth House and Garden	54.6636106	-3.3701793	North West England	CA13 9RX
+Wray Castle	54.4006141	-2.9664257	North West England	LA22 0JA
+Carrick-a-Rede Rope Bridge	55.2395666	-6.3445511	Northern Ireland	BT54 6LS
+Portstewart Strand	55.1697064	-6.7653896	Northern Ireland	BT55 7PG
+Springhill House	54.8134106	-6.8305117	Northern Ireland	BT45 7NQ
+Rowallane Garden	54.447758	-5.8317697	Northern Ireland	BT24 7LH
+Castle Ward	54.369147	-5.5875406	Northern Ireland	BT30 7LS
+Castle Coole	54.335476	-7.6034775	Northern Ireland	BT74 6JY
+Florence Court	54.258301	-7.7320787	Northern Ireland	BT92 1DB
+Crom Estate	54.172727	-7.4287427	Northern Ireland	BT92 8AJ
+Derrymore House	54.1896322	-6.3858055	Northern Ireland	BT35 7EF
+The Argory	54.4648336	-6.6598894	Northern Ireland	BT71 6NA
+Ardress House	54.4429739	-6.5950203	Northern Ireland	 BT62 1SQ
+The Crown Bar	54.5947114	-5.9361279	Northern Ireland	BT2 7BA
+Downhill Demesne and Hezlett House	55.164202	-6.8125918	Northern Ireland	BT51 4TW
+Giant's Causeway - National Trust	55.2324089	-6.5181953	Northern Ireland	BT57 8SU
+Gray's Printing Press	54.8254692	-7.4655834	Northern Ireland	BT82 8AU
+Minnowburn	54.5484371	-5.9548038	Northern Ireland	BT8 8LE
+Mount Stewart House, Garden and Temple of the Winds	54.5516191	-5.6041077	Northern Ireland	BT22 2AD
+Murlough National Nature Reserve	54.2314531	-5.8619879	Northern Ireland	BT33 0NQ
+Patterson's Spade Mill	54.7014721	-6.0451027	Northern Ireland	BT39 0AP
+Portstewart Strand	55.1711431	-6.7306465	Northern Ireland	BT55 7PG
+Wellbrook Beetling Mill	54.6553031	-6.8417587	Northern Ireland	BT80 9RY
+Culzean Castle	55.354695	-4.7915147	Scotland	KA19 8LE
+The Pineapple	56.0767503	-3.7888291	Scotland	FK2 8LU
+Glencoe & Dalness	56.671366	-5.0849537	Scotland	PH49 4HX
+The Hermitage	56.5574845	-3.6161929	Scotland	PH8 0JR
+Culloden Battlefield	57.4840994	-4.1289772	Scotland	IV2 5EU
+Glenfinnan Monument	56.8696944	-5.4444154	Scotland	PH37 4LT
+St John's Jerusalem	51.409067	0.2354933	South East England	DA4 9HQ
+Alfriston Clergy House	50.8061684	0.1555963	South East England	BN26 5TL
+Ascott	51.8960553	-0.7092997	South East England	LU7 0PR
+Ashdown House	51.5344433	-1.5968697	South East England	RG17 8RE
+Ashridge Estate	51.8090048	-0.5866478	South East England	HP4 1LT
+Basildon Park	51.4991827	-1.1237513	South East England	RG8 9NR
+Bateman's	50.9893115	0.377292	South East England	TN19 7DS
+Bembridge Fort	50.6711594	-1.1201987	South East England	PO36 8QY
+Bembridge Windmill	50.6833964	-1.0979027	South East England	PO35 5SQ
+Birling Gap and the Seven Sisters	50.7431682	0.1988604	South East England	BN20 0AB
+Boarstall Duck Decoy	51.8311033	-1.0986287	South East England	HP18 9UX
+Boarstall Tower	51.8232511	-1.0977641	South East England	HP18 9UX
+Bodiam Castle	51.0022677	0.5424547	South East England	TN32 5UA
+Box Hill	51.2521983	-0.3054905	South East England	KT20 7LB
+Buckingham Chantry Chapel	52.0003474	-0.9902183	South East England	MK18 1JX
+The Buscot and Coleshill Estates	51.6405025	-1.663007	South East England	SN6 7PT
+Buscot Old Parsonage	51.6816251	-1.6767963	South East England	SN7 8DQ
+Buscot Park	51.6703033	-1.6471687	South East England	SN7 8BU
+Chartwell	51.2443258	0.0810255	South East England	TN16 1PS
+Chastleton House	52.0342099	-1.6909794	South East England	GL56 0SU
+Clandon Park	51.2507003	-0.5104047	South East England	GU4 7RQ
+Claremont Landscape Garden	51.3562153	-0.3804437	South East England	KT10 9JG
+Claydon	51.9246023	-0.9583587	South East England	MK18 2EY
+Cliveden	51.5581951	-0.6903201	South East England	SL1 8NS
+Cobham Wood and Mausoleum	51.3891601	0.4316734	South East England	DA12 3BS
+Dorneywood Garden	51.5545883	-0.6490427	South East England	SL1 8PY
+Emmetts Garden	51.2522993	0.1152293	South East England	TN14 6AY
+Great Coxwell Barn	51.6444279	-1.614915	South East England	SN7 7LZ
+Greys Court	51.5456436	-0.9553563	South East England	RG9 4PG
+Hartwell House Hotel, Restaurant & Spa	51.8051063	-0.8489567	South East England	HP17 8NR
+Hatchlands Park	51.2556566	-0.4760663	South East England	GU4 7RT
+Hindhead Commons and the Devil's Punch Bowl	51.1135576	-0.7327085	South East England	GU26 6AB
+Hinton Ampner	51.0436092	-1.1528978	South East England	SO24 0LA
+Claremont Garden and The Homewood	51.3653898	-0.3723064	South East England	KT10 9JL
+Hughenden Manor	51.6502149	-0.7589659	South East England	HP14 4LA
+Ightham Mote	51.2584672	0.2674887	South East England	TN15 0NT
+King's Head	51.2584672	0.2674887	South East England	HP20 2RW
+Knole	51.2669297	0.2023007	South East England	TN15 0RP
+Lamb House	50.9498841	0.7305442	South East England	TN31 7ES
+Leith Hill Place	51.2135106	-0.4454932	South East England	RH5 6LY
+Long Crendon Courthouse	51.7758833	-0.9921469	South East England	HP18 9AN
+Monk's House	50.8386993	0.0143985	South East England	BN7 3HF
+Mottisfont	51.0411054	-1.5371487	South East England	SO51 0LP
+Mottistone Manor Garden	50.6524634	-1.4292367	South East England	PO30 4ED
+The Needles Old Battery and New Battery	50.6628177	-1.5854935	South East England	PO39 0JH
+Newtown Old Town Hall	50.7131489	-1.403432	South East England	PO30 4PA
+Nuffield Place	51.5850157	-1.0239918	South East England	RG9 5RY
+Nymans	51.0508466	-0.199685	South East England	RH17 6EB
+Oakhurst Cottage	51.1329457	-0.6260536	South East England	GU8 4HF
+Old Soar Manor	51.2630053	0.3176133	South East England	TN15 0QX
+Owletts	51.3931333	0.3897053	South East England	DA12 3AP
+Petworth House and Park	50.9866704	-0.6154271	South East England	GU28 0AE
+Pitstone Windmill	51.831872	-1.1902137	South East England	LU7 9ER
+Polesden Lacey	51.2578949	-0.3749463	South East England	RH5 6BD
+Priory Cottages	51.6203002	-1.3312567	South East England	OX13 6SP
+Quebec House	51.2672347	0.0737564	South East England	TN16 1TD
+River Wey and Godalming Navigations and Dapdune Wharf	51.2015718	-0.6085746	South East England	GU1 4RR
+National Trust Runnymede Office	51.4437332	-0.569605	South East England	SL4 2JL
+Sandham Memorial Chapel	51.3446484	-1.3384007	South East England	RG20 9JT
+Scotney Castle	51.0928365	0.4060449	South East England	TN3 8JN
+Shalford Mill	51.2191037	-0.5701986	South East England	GU4 8BS
+Sheffield Park and Garden	50.9987833	0.0122915	South East England	TN22 3QX
+Sissinghurst Castle Farmhouse	51.1155256	0.5804722	South East England	TN17 2AB
+Smallhythe Place (NT)	51.038133	0.697198	South East England	TN30 7NG
+South Foreland Lighthouse	51.1403743	1.368921	South East England	CT15 5NA
+Standen	51.1034043	-0.0187257	South East England	RH19 4NE
+Stoneacre	51.2522123	0.5754743	South East England	ME15 8RS
+Stowe	52.0280563	-1.0177588	South East England	MK18 5EQ
+Uppark House and Garden	50.9524061	-0.8934463	South East England	GU31 5QR
+The Vyne	51.3069492	-1.0908007	South East England	RG24 9HL
+Waddesdon Manor	51.8422731	-0.9396921	South East England	HP18 0JH
+Wakehurst	51.0691891	-0.0892022	South East England	RH17 6TN
+West Green House Garden	51.3014263	-0.9342257	South East England	RG27 8JB
+West Wycombe Park	51.6417043	-0.8028387	South East England	HP14 3AJ
+The White Cliffs of Dover	51.1334288	1.3342201	South East England	CT16 1HJ
+National Trust Winchester City Mill	51.0611534	-1.3100096	South East England	SO23 9BH
+Winkworth Arboretum	51.1615738	-0.5883372	South East England	GU8 4AD
+Woolbeding Gardens	50.9973664	-0.7600767	South East England	GU29 9RR
+A La Ronde	50.6415663	-3.4113928	South West England	EX8 5BD
+Antony	50.3852692	-4.2294225	South West England	PL11 2QA
+Arlington Court & Carriage Museum	51.147062	-3.9893407	South West England	EX31 4LP
+Ashleworth Tithe Barn	51.92508	-2.2684097	South West England	GL19 4JA
+Baggy Point	51.136017	-4.2475697	South West England	EX33 1PA
+Barrington Court	50.9612367	-2.863596	South West England	TA19 0NQ
+Bath Assembly Rooms	51.386204	-2.3650316	South West England	BA1 2QH
+Blaise Hamlet	51.5072215	-2.6377422	South West England	BAS10 7QY
+Boscastle	50.690974	-4.6979497	South West England	PL35 0HD
+Bradley	50.5256	-3.6270487	South West England	TQ12 1LX
+Branscombe	50.6922912	-3.1402056	South West England	EX12 3DB
+Brean Down	51.3249702	-3.0314174	South West England	TA8 2RS
+Brownsea Island	50.6917605	-1.9806774	South West England	BH13 7EE
+Buckland Abbey	50.4817691	-4.1348033	South West England	PL20 6EY
+Bedruthan Steps	50.4812366	-5.0341963	South West England	PL27 7UW
+Castle Drogo, Exeter	50.696	-3.8135887	South West England	EX6 6PB
+Cheddar Gorge	51.2831198	-2.7665306	South West England	BS27 3QF
+Chedworth Roman Villa	51.8198035	-1.9266801	South West England	GL54 3LJ
+The Church House	50.58024	-3.8355473	South West England	TQ13 7TA
+Clevedon Court, Clevedon	51.4407	-2.8356887	South West England	BS21 6QU
+Clouds Hill	50.717995	-2.2533637	South West England	BH20 7NQ
+Coleridge Cottage	51.1521695	-3.1600854	South West England	TA5 1NQ
+Coleton Fishacre	50.347264	-3.53807	South West England	TQ6 0EQ
+Compton Castle	50.4725229	-3.6024894	South West England	TQ3 1TA
+Corfe Castle	50.6391352	-2.0602721	South West England	BH20 5EZ
+Cotehele House	50.4960207	-4.2279098	South West England	PL12 6TA
+Cotehele Mill	50.4960203	-4.2344759	South West England	PL12 6TA
+The Courts Garden	51.3546042	-2.2028354	South West England	BA14 6RR
+Dunster Castle	51.1817352	-3.4458748	South West England	TA24 6SL
+Dunster Working Watermill	51.180307	-3.4471237	South West England	TA24 6SW
+Dyrham Park	51.479899	-2.3742137	South West England	SN14 8HY
+East Pool Mine	50.230847	-5.2640996	South West England	TR15 3ED
+Finch Foundry	50.7304195	-3.928059	South West England	EX20 2NW
+Fyne Court	51.082769	-3.1135387	South West England	TA5 2EQ
+Glastonbury Tor	51.144444	-2.7007997	South West England	BA6 8BG
+Glendurgan Garden	50.1068421	-5.1194961	South West England	TR11 5JZ
+Godolphin	50.1379614	-5.3613717	South West England	TR13 9RE
+Godrevy Beach	50.2341011	-5.3980635	South West England	TR27 5ED
+Great Chalfield Manor and Garden	51.3676218	-2.204407	South West England	SN12 8NH
+Greenway	50.3824044	-3.5893887	South West England	TQ5 0ES
+Hailes Abbey	51.9691783	-1.9301142	South West England	GL54 5PB
+Hardy Monument	50.6867733	-2.5513959	South West England	DT2 9HY
+National Trust Hardy's Cottage	50.7286178	-2.3924845	South West England	DT2 8QJ
+Heddon Valley	51.2018257	-3.9353592	South West England	EX31 4PY
+Heelis	51.5638367	-1.7995659	South West England	SN2 2NA
+Hidcote	52.0833189	-1.747398	South West England	GL55 6LR
+Holnicote Estate	51.2058464	-3.5642346	South West England	TA24 8TJ
+Horton Court	51.563656	-2.3413279	South West England	BS37 6QR
+Jurassic Coast	50.6712107	-2.6571303	South West England	DT2 9DE
+Killerton	50.7914779	-3.4599155	South West England	EX5 3LE
+Budlake Post Office	50.7889517	-3.4504024	South West England	EX5 3LW
+National Trust: Clyston Mill	50.7660364	-3.4493154	South West England	EX5 3EW
+Killerton: Marker's Cottage	50.7657398	-3.4421821	South West England	EX5 3LE
+King John's Hunting Lodge, Axbridge	51.2871703	-2.8206987	South West England	BS26 2AP
+Kingston Lacy House	50.8109182	-2.0338788	South West England	BH21 4EA
+Knightshayes Gardens National Trust	50.9208514	-3.4878766	South West England	X16 7RG
+Lacock Abbey, Fox Talbot Museum and Village	51.4146372	-2.1197428	South West England	SN15 2LG
+Lanhydrock	50.4426032	-4.7038707	South West England	PL30 4AB
+Lawrence House	50.8532501	-4.4815311	South West England	PL15 8BA
+Leigh Woods	51.4565289	-2.640306	South West England	BS8 3PZ
+Levant Mine and Beam Engine	50.1516244	-5.6875837	South West England	TR19 7SX
+Little Clarendon	51.0834283	-1.9824457	South West England	SP3 5DZ
+National Trust Lizard Point	49.9634392	-5.2141298	South West England	TR12 7NT
+Lodge Park and Sherborne Park Estate	51.8088445	-1.7924799	South West England	GL54 3PP
+Loughwood Meeting House	50.7881626	-3.0629756	South West England	EX13 7DU
+Lundy	51.1803869	-4.6999652	South West England	EX39 2LY
+Lydford Gorge	50.6414624	-4.2579108	South West England	EX20 4BH
+Lytes Cary Manor	51.0364244	-2.6694775	South West England	TA11 7HU
+Market Hall	52.0506893	-1.7828747	South West England	GL55 6AJ
+Max Gate	50.708143	-2.4221761	South West England	DT1 2AB
+Mompesson House	51.0667614	-1.8006617	South West England	SP1 2EL
+Montacute House	50.9517464	-2.7161871	South West England	TA15 6XP
+National Trust Newark Park	51.6363895	-2.3198945	South West England	GL12 7PZ
+Overbeck's	50.2215192	-3.7867273	South West England	TQ8 8LW
+Parke	50.5946118	-3.6906042	South West England	TQ13 9JQ
+Penrose	50.0873744	-5.3048947	South West England	TR13 0RD
+Priest's House	51.0211573	-2.8173935	South West England	TA10 0DQ
+Prior Park Landscape Garden	51.366922	-2.3468533	South West England	BA2 5AH
+The National Trust Purbeck	50.625437	-2.0257405	South West England	BH19 3AA
+St Michael's Mount	50.1165064	-5.4802727	South West England	TR17 0HS
+Saltram	50.3810152	-4.0849338	South West England	PL7 1UH
+Shute Barton	50.7721815	-3.0641903	South West England	EX13 7PT
+Snowshill Manor and Garden	52.0059248	-1.8654196	South West England	WR12 7JU
+South Milton Sands	50.2581857	-3.8593018	South West England	TQ7 3JY
+Stembridge Tower Mill	51.0711943	-2.8130177	South West England	TA10 9DJ
+Stoke-sub-Hamdon Priory	50.954105	-2.7533935	South West England	TA14 6QP
+Stonehenge Landscape	51.1788894	-1.8284139	South West England	SP4 7DD
+Stourhead	51.1058709	-2.3292214	South West England	BA12 6QF
+National Trust Knoll Beach	50.6441505	-1.9560944	South West England	BH19 3AQ
+Tintagel Old Post Office	50.6633334	-4.7538307	South West England	PL34 0DB
+Tintinhull Garden	50.9750034	-2.7118847	South West England	BA22 8PZ
+Treasurer's House, Martock	50.9689148	-2.7700755	South West England	TA12 6JL
+Trelissick Garden	50.2170404	-5.0341717	South West England	TR3 6QL
+Trengwainton Garden	50.1264004	-5.5691637	South West England	TR20 8RZ
+Trerice	50.3816742	-5.0357712	South West England	TR8 4PG
+Tyntesfield	51.4418295	-2.7204673	South West England	BS48 1NX
+Watersmeet	51.2231676	-3.8015069	South West England	EX35 6NT
+Wembury	50.317638	-4.0856167	South West England	PL9 0HP
+Westbury Court Garden	51.8226201	-2.413398	South West England	GL14 1PD
+Westbury College Gatehouse	51.4945484	-2.6193796	South West England	BS9 3EH
+Westwood Manor	51.3301013	-2.2730926	South West England	BA15 2AF
+White Mill	50.8050124	-2.0632317	South West England	BH21 4BX
+Woodchester Park	51.7102867	-2.2971469	South West England	GL10 3TS
+Aberconwy House	52.6648932	-3.4358133	Wales	LL32 8AY
+Penrhyn Castle	53.2258865	-4.0968537	Wales	LL57 4HT
+Conwy Suspension Bridge	53.2804774	-3.8259484	Wales	LL32 8LD
+Craflwyn and Beddgelert	53.019923	-4.0908016	Wales	LL55 4NG
+Carneddau and Glyderau	53.123603	-4.0225717	Wales	LL57 3LX
+South Snowdonia	52.8357098	-4.1414456	Wales	LL40 2HE
+Henfaes Centre: Porth y Swnt	52.804685	-4.7147707	Wales	LL53 8BE
+Llyn Peninsula	52.911868	-4.7738952	Wales	LL53 8DA
+Dolaucothi Gold Mines	52.045087	-3.9538527	Wales	SA19 8US
+Aberdeunant	51.9594588	-3.9370585	Wales	SA19 6DL
+Dinefwr Castle	51.8765705	-4.0203095	Wales	SA19 6RT
+Cwmmau Farmhouse	52.1538621	-3.0646413	Wales	HR3 6JP
+Powis Castle and Garden	52.6506024	-3.1604161	Wales	SY21 8RF
+Erddig	53.0261482	-3.008398	Wales	LL13 0YT
+Chirk Castle	52.9353756	-3.0918728	Wales	LL14 5AF
+Cilgerran Castle	52.0571606	-4.6363697	Wales	SA43 2SF
+Aberdulais Tin Works & Waterfall	51.6800941	-3.779758	Wales	SA10 8EU
+National Trust's Bodnant Garden	53.2337355	-3.8010282	Wales	LL28 5RE
+Colby Woodland Garden	51.7408113	-4.6719787	Wales	SA67 8PP
+Dyffryn Gardens	51.443715	-3.3047803	Wales	CF5 6SU
+Rhossili and South Gower Coast	51.5689062	-4.2923582	Wales	SA3 1PR
+The Kymin	51.8091563	-2.6886677	Wales	NP25 3SF
+Llanerchaeron	52.2182043	-4.2276487	Wales	SA48 8DG
+Plas Newydd House and Gardens	53.2026028	-4.217589	Wales	LL61 6DQ
+Plas yn Rhiw	52.8222542	-4.6213773	Wales	LL53 8AB
+St David's Visitor Centre & Shop	51.8806434	-5.263911	Wales	SA62 6SD
+Skenfrith Castle	51.8782343	-2.7925547	Wales	NP7 8UH
+Stackpole Park	51.6236698	-4.9105177	Wales	SA71 5LS
+Stackpole Outdoor Learning Centre	51.6226423	-4.9295787	Wales	SA71 5DQ
+Tredegar House	51.5616043	-3.0302947	Wales	NP10 8YW
+Tudor Merchant's House	51.6717132	-4.7002763	Wales	SA70 7BX
+Ty Mawr Wybrnant	53.0547245	-3.8388874	Wales	LL25 0HJ
+Allen Banks and Staward Gorge	54.9703321	-2.3191559	Yorkshire and North East	NE47 7BP
+Beningbrough Hall, Gallery and Gardens	54.0207451	-1.2132577	Yorkshire and North East	YO30 1DD
+Braithwaite Hall	54.2674258	-1.8235977	Yorkshire and North East	DL8 4SY
+Bridestones, Crosscliff & Blakey Topping	54.3023937	-0.6549096	Yorkshire and North East	YO18 7LR
+Brimham Rocks	54.0802771	-1.6872347	Yorkshire and North East	HG3 4DW
+Cherryburn	54.9581244	-1.8865853	Yorkshire and North East	NE43 7DD
+Cragside	55.3150177	-1.8907428	Yorkshire and North East	NE65 7PX
+Dunstanburgh Castle	55.4894237	-1.5971871	Yorkshire and North East	NE66 3TT
+East Riddlesden Hall	53.8747474	-1.8835273	Yorkshire and North East	BD20 5EL
+Farne Islands	55.6166671	-1.6535318	Yorkshire and North East	NE68 7SR
+Fountains Abbey	54.1119544	-1.5817587	Yorkshire and North East	HG4 3DY
+George Stephenson's Birthplace	54.9792901	-1.8069187	Yorkshire and North East	NE41 8BP
+Gibside	54.9205964	-1.7310433	Yorkshire and North East	NE16 6BG
+Goddards House and Garden	53.9404461	-1.1068432	Yorkshire and North East	YO24 1GG
+Hardcastle Crags	53.7587684	-2.0210462	Yorkshire and North East	HX7 7AP
+Holy Jesus Hospital	54.9716068	-1.6096983	Yorkshire and North East	NE1 2AS
+Lindisfarne Castle	55.6690647	-1.7869347	Yorkshire and North East	TD15 2SH
+Maister House	53.7434962	-0.3331067	Yorkshire and North East	HU1 1NL
+Malham Tarn Estate	54.1020999	-2.1756477	Yorkshire and North East	BD24 9PT
+Marsden Moor Estate	53.603101	-1.9311992	Yorkshire and North East	HD7 6DH
+Middlethorpe Hotel, Restaurant and Spa	53.9307307	-1.0920892	Yorkshire and North East	YO23 2GB
+Moulton Hall	54.4237331	-1.6452627	Yorkshire and North East	DL10 6QH
+Mount Grace Priory	54.3801062	-1.3120386	Yorkshire and North East	DL6 3JG
+Nostell Priory and Parkland	53.6527094	-1.3922324	Yorkshire and North East	WF4 1QE
+National Trust Nunnington Hall	54.2067897	-0.9759196	Yorkshire and North East	YO62 5UY
+The Old Coastguard Station	54.4301932	-0.5344168	Yorkshire and North East	YO22 4SJ
+Ormesby Hall	54.543212	-1.1851796	Yorkshire and North East	TS3 0SR
+Rievaulx Terrace	54.258384	-1.113169	Yorkshire and North East	YO62 5LJ
+Roseberry Topping	54.5053561	-1.1094487	Yorkshire and North East	TS9 6QR
+Seaton Delaval Hall	55.0822261	-1.4987563	Yorkshire and North East	NE26 4QR
+Souter Lighthouse and The Leas	54.9704398	-1.3666295	Yorkshire and North East	SR6 7NH
+Treasurer's House, York	53.9627671	-1.0831617	Yorkshire and North East	YO1 7JL
+Wallington	55.1522038	-1.95854	Yorkshire and North East	NE61 4AR
+Washington Old Hall	54.9027059	-1.5187395	Yorkshire and North East	NE38 7LE
+Yorkshire Coast	54.3186075	-0.8642228	Yorkshire and North East	YO13 0NE

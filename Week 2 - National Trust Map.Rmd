@@ -1,0 +1,35 @@
+---
+title: "National Trust Properties Map"
+author: "Ashley You"
+date: "13 August 2017"
+output: html_document
+---
+
+National Trust is a conservation organisation in England, Wales and Northern Ireland, and the largest membership organisation in the United Kingdom. In Scotland, there is an independent National Trust for Scotland. 
+
+The map I created with Leaflet shows locations of properties owned by National Trust in England, Wales, Northern Ireland and Scotland.  
+
+# Load libraries 
+
+```{r, message=FALSE, warning=FALSE}
+library(leaflet)
+library(htmltools)
+```
+
+# Make the Map 
+
+```{r, message=FALSE, warning=FALSE}
+data <-  read.table("nationaltrust.txt",quote=NULL,comment="", sep="\t",header=TRUE)  
+
+
+NT_icon <- makeIcon(iconUrl = ifelse(data$Region=="Scotland","https://upload.wikimedia.org/wikipedia/commons/e/ea/National_Trust_for_Scotland.svg", "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/NationalTrustUKLogo.svg/512px-NationalTrustUKLogo.svg.png"),
+         iconWidth = 20*215/230, 
+         iconHeight = 25,
+         iconAnchorX = 20*215/230/2, 
+         iconAnchorY = 16)
+
+leaflet(data) %>% 
+        addProviderTiles(providers$Esri.NatGeoWorldMap) %>%
+        addMarkers(~Lng,~Lat,popup= ~htmlEscape(paste(Place,"- Postcode:",Postcode)), clusterOptions=markerClusterOptions(),icon = NT_icon)
+
+```
